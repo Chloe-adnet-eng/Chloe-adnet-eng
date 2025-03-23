@@ -1,5 +1,6 @@
 # 💫 About Me:
-I graduated as an engineer in mathematics and computer science from Ensimag in 2023<br><br>I have been working for 2 years as a Data Engineer at Theodo Data IA <br><br>I love to run and make jokes 
+I graduated as an engineer in mathematics and computer science from Ensimag in 2023
+I have been working for 2 years as a Data Engineer at Theodo Data IA and I'm a running addict. 
 
 
 ## 🌐 Socials:
